@@ -7,4 +7,4 @@ In this lab we will use Amazon Redshift as the Data Warehouse solution for the a
 3. Connect Tableau desktop to the Redshift cluster and analyze the tables' data using vizualization.
 
 ## Important !!!
-At the end of the lab delete the Redshift cluster to avoid AWS billing. You can delete the cluster by selecting the cluster you launched during the lab from the AWS Management Console and then navigate to CLuster > Delete cluster.
+At the end of the lab delete the Redshift cluster to avoid incurring AWS charges. You can delete the cluster by selecting the cluster you launched during the lab from the AWS Management Console and then navigate to CLuster > Delete cluster.
