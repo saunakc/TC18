@@ -1,4 +1,4 @@
-# TC18 Analysis of Formula 1 data using Amazon Redshift and Tableau
+# TC18; Analysis of Formula 1 data using Amazon Redshift and Tableau
 Hands-on lab on Tableau conference 2018 using Amazon Redshift and Tableau Desktop to analyze Formula 1 data.
 
 In this lab we will use Amazon Redshift as the Data Warehouse solution for the analysis of Formuala 1 data using Tableau Desktop. We will perform-
