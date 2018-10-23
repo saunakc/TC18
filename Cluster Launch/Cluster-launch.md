@@ -51,7 +51,7 @@
 * At the end of the installation it will be ready to connect to a database – stop when you get this step, as you have not yet configured a database to use!
 
 
-##Connect to your Redshift cluster using SQL Workbench/J
+## Connect to your Redshift cluster using SQL Workbench/J
 * From the AWS Console, choose the Amazon Redshift service, then choose **Clusters** and click on democluster
 * Scroll down to the JDBC URL. This is your connection string. Copy it. It should look something like:  _jdbc:redshift://democluster.cdkituczqepk.us-west-2.redshift.amazonaws.com:8192/demodb_
 * Open SQL Workbench/J. Choose **File**, and then choose **Connect window**. Choose **Create a new connection profile**. 
