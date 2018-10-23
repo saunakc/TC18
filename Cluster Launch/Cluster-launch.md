@@ -20,7 +20,7 @@
 
 ## Create a Redshift cluster
 * From the AWS Console, choose the Amazon Redshift service.
-* Change the region to US East (Ohio)
+* Make sure the current region is to *US East (Virginia)*.
 * Choose **Launch Cluster**
 * On the Cluster Details page, enter the following values and then choose **Continue**: 
 * **Cluster Identifier**: type democluster. 
@@ -29,7 +29,7 @@
 * **Master User Name**: type rsadmin. You will use this username and password to connect to your database after the cluster is available. 
 * **Master User Password and Confirm Password**: type a password for the master user account. Be sure to follow the rules for passwords. Don’t forget your password (!), and choose **Continue**
 * Create a 4 node cluster using dc1.large 	and choose **Continue**
-  * Node type : dc1.large
+  * Node type : dc2.large
   * Cluster type : Multi Node
   * Number of compute nodes : 4 (type in)
 * On the Additional Configuration page, use the default VPC and the default Security Group. Leave other settings on their defaults.
